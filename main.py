@@ -5,4 +5,4 @@ c = a + b
 print(c)
 print('belhard')
 print('belhard')
-print('ananas')
+print('banana')

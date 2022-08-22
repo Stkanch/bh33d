@@ -1,0 +1,6 @@
+name = input('Введите имя: ')
+age = input('Введите возраст: ')
+city = input('Из какого Вы города : ')
+print(f"Привет {name} которому {age} лет из города {city}!")
+print("Привет {} которому {} лет из города {}!".format(name, age, city))
+print("Привет %s которому %s лет из города %s!" % (name, age, city))
